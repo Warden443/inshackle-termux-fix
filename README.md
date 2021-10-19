@@ -17,5 +17,3 @@ https://github.com/Warden443/inshackle-termux-fix
 cd inshackle
 bash inshackle.sh
 ```
-
-### Happy Hacking
